@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coding Test</string>
+    <string name="back">Back</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+    <string name="error_something_went_wrong">Something went wrong, please check your internet connection and try again</string>
+    <string name="error_retry">RETRY</string>
+    <string name="error_empty_data">No Data</string>
+</resources>
