@@ -7,7 +7,7 @@
 
         <variable
             name="data"
-            type="com.example.codingtest.data.model.Article" />
+            type="com.example.androidNewReader.data.model.Article" />
     </data>
 
     <com.google.android.material.card.MaterialCardView

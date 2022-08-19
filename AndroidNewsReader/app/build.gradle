@@ -11,7 +11,7 @@ android {
         dataBinding true
     }
     defaultConfig {
-        applicationId "com.example.codingtest"
+        applicationId "com.example.androidNewReader"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
@@ -88,6 +88,8 @@ dependencies {
 
     //DI
     implementation "com.google.dagger:hilt-android:$hilt_version"
+    androidTestImplementation 'junit:junit:4.12'
+    androidTestImplementation 'junit:junit:4.12'
     kapt "com.google.dagger:hilt-android-compiler:$hilt_version"
 
     //Test
